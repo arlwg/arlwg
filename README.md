@@ -5,9 +5,12 @@
 - 🔱🚢 Multiplayer game in Unity using Photon.
 
   
-### 🌱 I’m currently learning about Artificial Intelligence and how it can tie into game development.
+### 🌱 I’m currently learning about : 
+- 🤖 Artificial Intelligence and how it further ties into game development.
+- 🛜 More advanced networking solutions, concepts.
+- 💾 Engine development for Unreal Engine.
 
-🔭 Currently looking for a studio to join where I can contribute to creating exciting games, working alongside other professionals in Game Development
+🔭 Currently looking to join a studio to create exciting games, work alongside other professionals in Game Development industry.
 
 <!--
 **arlwg/arlwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
