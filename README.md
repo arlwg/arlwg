@@ -1,6 +1,6 @@
 ### Hi there, welcome to my github page! 👋
 
-- 🔭 I’m currently working on a multiplayer game for the Oculus Quest 3 in Unreal Engine.
+- 🔭 I’m currently working on a multiplayer game for the Oculus Quest 3 in Unreal Engine, and a multiplayer Ship Battle game in Unity using Photon.
 - 🌱 I’m currently learning about Artificial Intelligence and how it can tie into game development.
 
 
