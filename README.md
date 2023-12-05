@@ -7,7 +7,7 @@
   
 ### 🌱 I’m currently learning about Artificial Intelligence and how it can tie into game development.
 
-🔭 Looking to join a studio and contribute to creating exciting games, work alongside other professionals in Game Development
+🔭 Currently looking for a studio to join where I can contribute to creating exciting games, working alongside other professionals in Game Development
 
 <!--
 **arlwg/arlwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
