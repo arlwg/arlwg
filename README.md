@@ -11,7 +11,7 @@
 - 🛜 More advanced networking solutions, concepts.
 - 💾 Engine development for Unreal Engine.
 
-🔭 Currently looking to join a studio to create exciting games, work alongside other professionals in Game Development industry.
+🔭 Currently looking to join a studio to create exciting games, work alongside other professionals in the industry.
 
 <!--
 **arlwg/arlwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
