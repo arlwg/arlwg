@@ -2,7 +2,7 @@
 
 ### I’m currently working on :
 - 🔎 Multiplayer game for the Oculus Quest 3 in Unreal Engine using EOS.
-- 🔱 Multiplayer Ship Battle game in Unity using Photon.
+- 🔱 Multiplayer game in Unity using Photon.
 
   
 ### 🌱 I’m currently learning about Artificial Intelligence and how it can tie into game development.
