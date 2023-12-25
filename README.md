@@ -1,15 +1,15 @@
 ### Hi there, welcome to my github page! 👋
 
 ### ⚒️ I’m currently working on :
-- 🔎🃏 Multiplayer game for the Oculus Quest in Unreal Engine using EOS.
-- 🔱🚢 Multiplayer game in Unity using Photon.
-- Cleaning up and expanding my portfolio.
+- 🃏 Multiplayer game for the Oculus Quest in Unreal Engine using EOS.
+- 🚢 Multiplayer game in Unity using Photon.
 
   
 ### 🌱 I’m currently learning about : 
-- 🤖 Artificial Intelligence and how it further ties into game development.
-- 🛜 More advanced networking solutions, concepts.
-- 💾 Engine development for Unreal Engine.
+- Artificial Intelligence and how it further ties into game development.
+  - Researching workflows, tools, and game features; integration.
+- Networking, always.
+- Engine development for Unreal Engine.
 
 🔭 Currently looking to join a studio to create exciting games, work alongside other professionals in the industry.
 
