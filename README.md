@@ -1,8 +1,8 @@
 ### Hi there, welcome to my github page! 👋
 
 ### ⚒️ I’m currently working on :
-- 🃏 Multiplayer game for the Oculus Quest in Unreal Engine using EOS.
-- 🚢 Multiplayer game in Unity using Photon.
+- 🃏 Multiplayer card game for the Oculus Quest in Unreal Engine using EOS.
+- 🚢 Multiplayer ship battle game in Unity using Photon.
 
   
 ### 🌱 I’m currently learning about : 
