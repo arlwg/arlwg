@@ -8,7 +8,6 @@
 ### 🌱 I’m currently learning about : 
 - Artificial Intelligence and how it further ties into game development.
   - Researching workflows, tools, and game features; integration.
-- Networking, always.
 - Engine development for Unreal Engine.
 
 🔭 Currently looking to join a studio to create exciting games, work alongside other professionals in the industry.
