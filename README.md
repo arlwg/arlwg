@@ -1,16 +1,8 @@
 ### Hi there, welcome to my github page! 👋
 
-### ⚒️ I’m currently working on :
-- 🃏 Multiplayer card game for the Oculus Quest in Unreal Engine using EOS.
-- 🚢 Multiplayer ship battle game in Unity using Photon.
 
-  
-### 🌱 I’m currently learning about : 
-- Artificial Intelligence and how it further ties into game development.
-  - Researching workflows, tools, and game features; integration.
-- Engine development for Unreal Engine.
 
-🔭 Currently looking to join a studio to create exciting games, work alongside other professionals in the industry.
+🔭 Looking to join a studio to create exciting games, work alongside other professionals in the industry.
 
 <!--
 **arlwg/arlwg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
